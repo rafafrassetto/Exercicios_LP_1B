@@ -1,2 +1,2 @@
-# Exercicios_LP_1B
+# infosatc-lp-avaliativo-01
  tarefa
