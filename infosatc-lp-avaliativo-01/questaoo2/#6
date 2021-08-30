@@ -1,0 +1,4 @@
+#6
+numero = float(input('Digite uma temperatura em graus : '))
+print((numero*9.0/5.0)+32.0)
+

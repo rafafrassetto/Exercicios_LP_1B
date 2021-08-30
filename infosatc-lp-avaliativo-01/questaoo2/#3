@@ -1,0 +1,5 @@
+#3
+numero = float(input('Digite um numero inteiro : '))
+numero2 = float(input ('Digite outro numero inteiro : '))
+numero3 = float(input('Digite novamente um numero inteiro : '))
+print(numero + numero2 + numero3)

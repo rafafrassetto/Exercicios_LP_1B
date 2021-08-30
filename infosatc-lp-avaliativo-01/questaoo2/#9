@@ -1,0 +1,3 @@
+#9
+numero = float(input('Digite uma temperatura em graus celcius : '))
+print(numero+273.15)

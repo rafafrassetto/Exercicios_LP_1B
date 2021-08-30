@@ -1,0 +1,3 @@
+#4
+numero = float(input('Digite um numero real : '))
+print(pow(numero,2))

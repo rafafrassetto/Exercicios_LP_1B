@@ -1,0 +1,3 @@
+#12
+numero = float(input('Digite uma distancia em milhas: '))
+print(1.61*numero)

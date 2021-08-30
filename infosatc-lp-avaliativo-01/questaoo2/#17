@@ -1,0 +1,4 @@
+#17
+numero = float(input('Digite um comprimento em centimetros : '))
+print(numero/2.54)
+

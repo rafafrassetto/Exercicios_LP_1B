@@ -1,0 +1,7 @@
+#30
+numero = float(input("digite um valor real: "))
+
+numero1 = float(input(' digite a cotação do dolar: '))
+
+
+print(numero/numero1)
